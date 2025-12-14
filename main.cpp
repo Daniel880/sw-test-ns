@@ -6,5 +6,6 @@ int main() {
   std::cout << "It prints multiple lines to the console." << std::endl;
   std::cout << "It demonstrates basic output functionality." << std::endl;
   std::cout << "Goodbye!" << std::endl;
+  std::cout << "End of the program." << std::endl;
   return 0;
 }
